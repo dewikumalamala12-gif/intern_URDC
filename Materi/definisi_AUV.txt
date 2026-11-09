@@ -1,0 +1,1 @@
+AUV (Autonomous Underwater Vehicle) adalah kendaraan bawah air otonom yang bergerak tanpa kendali langsung dari operator.
